@@ -1,5 +1,4 @@
-CC = gcc  # Compiler (modify if needed)
-CFLAGS = -Wall -g  # Compiler flags (warnings, debugging)
+CC = gcc  
 
 # Target (executable name)
 TARGET = supermarket
