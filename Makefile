@@ -1,4 +1,5 @@
 CC = gcc  
+CFLAGS = -Wall -g  
 
 # Target (executable name)
 TARGET = supermarket
