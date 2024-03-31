@@ -4,10 +4,10 @@ CFLAGS = -Wall -g
 # Target (executable name)
 TARGET = supermarket
 
-# Source files
+
 SOURCES = main.c
 
-# Object files (automatically generated based on source files)
+
 OBJECTS = $(SOURCES:.c=.o)
 
 .PHONY: all clean
